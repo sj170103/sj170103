@@ -11,12 +11,12 @@
 **"Native 기술을 결합한 고성능 러닝 트래킹 앱"**  
 백그라운드 위치 추적과 대용량 코스·이미지 렌더링을 최적화한 러닝 플랫폼입니다.
 
-- **Role:** Mobile App & Native Module (100%)
+- **Role:** Mobile App & Native Module
 - **Key Tech:** `React Native`, `TypeScript`, `Kotlin`, `Recoil`, `Skia`
 - **Core Work & Achievements**
   - **Native Background Service**  
-    React Native의 제약을 넘기 위해 **Kotlin Foreground Service + Bridge**를 직접 구현해,  
-    화면이 꺼지거나 앱이 백그라운드여도 **途중 끊김 없는 GPS 트래킹**을 달성했습니다.
+    React Native의 와 **Kotlin Foreground Service + Bridge**를 직접 구현해,  
+    화면이 꺼지거나 앱이 백그라운드여도 **런닝중 끊김 없는 GPS 트래킹**을 달성했습니다.
   - **Rendering 최적화**  
     수천 개의 코스 좌표를 그릴 때 발생하는 **UI 스레드 블로킹**을  
     `InteractionManager`·지연 렌더링 전략으로 줄여, 실제 기기에서도 부드러운 지도를 구현했습니다.
