@@ -100,7 +100,3 @@ Google Maps API 기반으로 흡연실 위치 정보와 사용자 커뮤니티 �
 
 
 ---
-
-## 📈 GitHub Stats
-
-![SJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj170103&show_icons=true&theme=radical&hide_border=true)
